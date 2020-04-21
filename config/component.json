@@ -1,3 +1,9 @@
 {
-  "components": []
+  "components": [
+    "button",
+    "grid",
+    "grid-item",
+    "steps",
+    "step"
+  ]
 }
